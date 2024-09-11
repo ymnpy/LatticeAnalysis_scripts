@@ -9,7 +9,7 @@ The main intention of the scripts are the following:
 
 -To do EDA (exploratory data analysis)
 
--To train ML (machine learning) models and make predictions
+-To train ML (machine learning) models and make predictions about mechanical properties
 
 -To perform optimization with GA (genetic algorithm, note that GA code is not belong to me, it is taken from somewhere on the internet.)
 
