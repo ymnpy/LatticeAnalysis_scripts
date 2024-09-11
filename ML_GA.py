@@ -25,7 +25,7 @@ warnings.simplefilter("ignore")
 warnings.simplefilter(action='ignore', category=FutureWarning)
 sns.set_theme(style="ticks",font_scale=3)
 plt.rcParams["font.family"] = "Times New Roman"
-os.chdir(r'C:\Users\User\Desktop\Okul\YL\yl_döküman\00_AUXETIC-METAMATERIALS\40_the1000\01_the1400')
+#os.chdir()
 np.random.seed(42)
 
 """THE MAIN SCRIPT FOR MACHINE LEARNING STUFF, including:
