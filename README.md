@@ -1,5 +1,4 @@
-
-![graphical_abstract2](https://github.com/user-attachments/assets/a56eed2a-4662-4d9c-8716-11cd4bb4b9a3)
+![wcloud](https://github.com/user-attachments/assets/35cc5441-4c1e-410c-9fd3-b7c6a1c125df)
 
 Here I provide couple of scripts that I have used in my master thesis.
 
