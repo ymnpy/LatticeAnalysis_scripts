@@ -34,7 +34,7 @@ def get_image(model,t,c="saddlebrown"):
     w=p2[0]-p1[0]
     h=p3[1]-p4[1]
     sym=0
-    cellx=8
+    cellx=6
     celly=8
     
     plt.figure(figsize=(12,8))
