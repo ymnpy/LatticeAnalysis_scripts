@@ -1,3 +1,6 @@
+
+![graphical_abstract2](https://github.com/user-attachments/assets/a56eed2a-4662-4d9c-8716-11cd4bb4b9a3)
+
 Here I provide couple of scripts that I have used in my master thesis.
 
 The main intention of the scripts are the following:
